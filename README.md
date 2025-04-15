@@ -1,6 +1,6 @@
 # KnobGen
 
-* Official Implementation of KnobGen paper.
+* Official Implementation of KnobGen paper. Published in [CVEU](https://cveu.github.io/) workshop at CVPR 2025.
 
 ## Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models
 
